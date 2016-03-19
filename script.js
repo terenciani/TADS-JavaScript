@@ -7,6 +7,7 @@ function mudarCores() {
 		document.getElementById("conteudo").style.background = "red";
 		document.getElementById("rodape").style.background = "black";
 		troca = 0;
+		teste = 2;
 	} else{
 		document.getElementById("cabecalho").style.background = "red";
 		document.getElementById("conteudo").style.background = "black";
